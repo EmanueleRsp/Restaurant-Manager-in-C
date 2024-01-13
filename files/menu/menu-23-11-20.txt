@@ -1,0 +1,12 @@
+A1	Bruschetta	5
+A2	Insalata Caprese	6
+A3	Prosciutto e Melone	7
+P1	Spaghetti Carbonara	8
+P2	Risotto ai Funghi	9
+P3	Lasagne alla Bolognese	10
+S1	Filetto di Salmone	12
+S2	Bistecca alla Fiorentina	15
+S3	Pollo al Curry	11
+D1	Tiramisù	7
+D2	Panna Cotta	6
+D3	Gelato alla Vaniglia	5

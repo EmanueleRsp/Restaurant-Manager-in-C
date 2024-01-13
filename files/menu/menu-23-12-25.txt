@@ -1,0 +1,18 @@
+A1	Antipasto di mare	15
+A2	Crostini toscani	10
+A3	Insalata di polpo	12
+A4	Carpaccio di manzo con rucola e scaglie di grana	13
+P1	Lasagne alla bolognese	12
+P2	Risotto ai funghi porcini	14
+P3	Gnocchi al pesto genovese	11
+P4	Pappardelle al cinghiale	16
+S1	Filetto di manzo con riduzione al vino rosso	20
+S2	Salmone in crosta di mandorle	18
+S3	Pollo arrosto con patate	15
+S4	Brasato di agnello con contorno di verdure	22
+D1	Tiramisù	8
+D2	Pandoro con crema al mascarpone	10
+D3	Sformato di cioccolato fondente	9
+D4	Frutta fresca di stagione	6
+D5	Gelato artigianale	7
+D6	Assortimento di pasticcini natalizi	12

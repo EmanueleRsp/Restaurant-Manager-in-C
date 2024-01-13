@@ -1,0 +1,12 @@
+A1	Crostini con crema di zucca e ricotta	11
+A2	Sformato di carciofi	13
+A3	Carpaccio di bresaola con scaglie di parmigiano	15
+P1	Risotto alla milanese con ossobuco	18
+P2	Pasta e fagioli	12
+P3	Tagliatelle al ragù di cinghiale	16
+S1	Cacciucco alla livornese	20
+S2	Guancia di maiale brasata al vino rosso	22
+S3	Sformato di patate e porri gratinato	14
+D1	Torta di mele calda con gelato alla vaniglia	10
+D2	Zuppa inglese con cioccolato fondente	9
+D3	Bigne al cioccolato e panna montata	8
