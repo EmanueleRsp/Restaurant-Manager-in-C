@@ -18,9 +18,9 @@ The main documentation of the project is available [here](/docs/documentation.md
 
 For more details about the **data storaging** by server, please refer to the [relative documentation](/docs/files%20organization.md).
 
-For more details about the data structures used for **data transmission**, please refer to the [relative documentation](/docs/data%20transmission.md).
+For more details about data structures used for **data transmission**, please refer to the [relative documentation](/docs/data%20transmission.md).
 
-If you want to check the tasks required for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
+If you want to check tasks required for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
 
 ---
 
