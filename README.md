@@ -6,6 +6,7 @@ The project is structured as a **client-server application**, where the **multi-
   - [Documentation](#documentation)
   - [Project structure](#project-structure)
   - [How to run the application](#how-to-run-the-application)
+  - [Final evaluation and comments](#final-evaluation-and-comments)
 
 
 ---
@@ -18,9 +19,9 @@ The main documentation of the project is available [here](/docs/documentation.md
 
 For more details about the **data storaging** by server, please refer to the [relative documentation](/docs/files%20organization.md).
 
-For more details about data structures used for **data transmission**, please refer to the [relative documentation](/docs/data%20transmission.md).
+For more details about the data structures used for **data transmission**, please refer to the [relative documentation](/docs/data%20transmission.md).
 
-If you want to check tasks required for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
+If you want to check the tasks required for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
 
 ---
 
@@ -61,3 +62,11 @@ To possibly **delete** object and exe files, you can use:
 ```bash
 make clean
 ```
+
+---
+
+## Final evaluation and comments
+
+The project was evaluated with a **score of 5/5 with honours**.
+
+The professor specifically appreciated the **modularity** of the application and the **attention to memory management**, expecially the **fragmentation** approach used to store data in files. He also appreciated the **documentation** of the project, which is quite detailed, well-structured and also faces up some critical points of the application. 
