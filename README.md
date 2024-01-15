@@ -42,6 +42,7 @@ The project is structured in the following way:
 
 ## How to run the application
 
+You can download the latest zip file released from [here](https://github.com/EmanueleRsp/Restaurant-Manager-in-C/releases). 
 
 Make sure to have installed the `gcc` compiler to compile C files:
 ```bash
