@@ -8,6 +8,7 @@ The project is structured as a **client-server application**, where the **multi-
   - [How to run the application](#how-to-run-the-application)
   - [Final evaluation and comments](#final-evaluation-and-comments)
 
+For any ussue or question, please don't hesitate to contact me!
 
 ## Documentation
 
