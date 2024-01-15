@@ -9,8 +9,6 @@ The project is structured as a **client-server application**, where the **multi-
   - [Final evaluation and comments](#final-evaluation-and-comments)
 
 
----
-
 ## Documentation
 
 > _This project was developed during "Computer Networks" course for the Bachelor's degree in Computer Engineering at the University of Pisa, so inner workings and implementation details are described in **italian**._
@@ -23,7 +21,6 @@ For more details about the data structures used for **data transmission**, pleas
 
 If you want to check the tasks required for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
 
----
 
 ## Project structure
 
@@ -38,7 +35,6 @@ The project is structured in the following way:
 - **`Makefile`** is the **makefile** used to compile the source code or **delete object/exe files**.
 - **`README.md`** is the **file** you are reading right now :).
 
----
 
 ## How to run the application
 
@@ -64,7 +60,6 @@ To possibly **delete** object and exe files, you can use:
 make clean
 ```
 
----
 
 ## Final evaluation and comments
 
