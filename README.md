@@ -1,5 +1,8 @@
 # Restaurant Manager: a client-server distributed application in C language
 
+[![GitHub Release](https://img.shields.io/github/release/EmanueleRsp/Restaurant-Manager-in-C?style=flat)](https://github.com/EmanueleRsp/Restaurant-Manager-in-C/releases) [![GitHub license](https://img.shields.io/github/license/EmanueleRsp/Restaurant-Manager-in-C?style=flat)](https://github.com/EmanueleRsp/Restaurant-Manager-in-C/blob/main/LICENSE) 
+[![Stars](https://img.shields.io/github/stars/EmanueleRsp/Restaurant-Manager-in-C?style=social&label=Stars)](https://github.com/EmanueleRsp/Restaurant-Manager-in-C/stargazers) 
+
 The project is structured as a **client-server application**, where the **multi-service server** manages the incoming requests from three types of devices (client, table and kitchen), communicating by exchanging messages, using specific protocols and data structures. The server is also responsible for managing the data, which are saved in **text files**.
 
 - [Restaurant Manager: a client-server distributed application in C language](#restaurant-manager-a-client-server-distributed-application-in-c-language)
@@ -66,4 +69,4 @@ make clean
 
 The project was evaluated with a **score of 5/5 with honours**.
 
-The professor specifically appreciated the **modularity** of the application and the **attention to memory management**, expecially the **fragmentation** approach used to store data in files. He also appreciated the **documentation** of the project, which is quite detailed, well-structured and also faces up some critical points of the application. 
+The professor specifically appreciated the **modularity** of the application and the **attention to memory management**, expecially the **fragmentation** approach used to store data in files. He also appreciated the **documentation** of the project, which is quite detailed, well-structured and also faces up some critical points of chosen approaches. 
