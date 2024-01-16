@@ -44,6 +44,8 @@ The project is structured in the following way:
 
 You can download the latest zip file released from [here](https://github.com/EmanueleRsp/Restaurant-Manager-in-C/releases). 
 
+The project has been developed using some **Unix-specific libraries** (`arpa/inet.h`, `netinet/in.h` and `sys/socket.h`). In order to run the application, you need to have a **Linux distribution** installed on your machine.  
+
 Make sure to have installed the `gcc` compiler to compile C files:
 ```bash
 gcc --version
